@@ -2,6 +2,8 @@
 哈囉，我是Kip，一個靠自學艱難摸爬滾打的網頁全端工程師<br>
 目前資歷2.5年，正在往後端的領域深入😎
 
+## main skills
+![MainSkill](https://skillicons.dev/icons?i=git,github,vue,nuxt,laravel,redis,mysql,docker)
 ## languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
