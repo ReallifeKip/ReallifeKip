@@ -21,11 +21,13 @@
 
 ## backend skills
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express-%23FF2D20.svg?style=for-the-badge&logo=express&logoColor=white&color=092e20)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23FF2D20.svg?style=for-the-badge&logo=django&logoColor=white&color=092e20)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## operation skills
+![SQLite](https://img.shields.io/badge/sqlite-%23FF2D20.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=0681cd)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-%230769AD.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=cf2a26)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
