@@ -26,10 +26,12 @@
 ![Django](https://img.shields.io/badge/django-%23FF2D20.svg?style=for-the-badge&logo=django&logoColor=white&color=092e20)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## operation skills
+## databases skills
 ![SQLite](https://img.shields.io/badge/sqlite-%23FF2D20.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=0681cd)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-%230769AD.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=cf2a26)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-%230769AD.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=cf2a26)
+
+## operation skills
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
