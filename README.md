@@ -27,9 +27,10 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## databases skills
-![SQLite](https://img.shields.io/badge/sqlite-%23FF2D20.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=0681cd)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23FF2D20.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=2f6792)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-%230769AD.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=cf2a26)
+![SQLite](https://img.shields.io/badge/sqlite-%23FF2D20.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=0681cd)
 
 ## operation skills
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
