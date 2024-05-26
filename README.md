@@ -54,8 +54,6 @@
 ![Windows](https://img.shields.io/badge/Windows-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white&color=0074cd)
 
 
-## analysis tool skills
-
 ## editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
