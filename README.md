@@ -34,19 +34,19 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%23FF2D20.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=0681cd)
 
 ## operation skills
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Windows IIS](https://img.shields.io/badge/Windows%20IIS-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white&color=04acef)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Xampp](https://img.shields.io/badge/xampp-%230769AD.svg?style=for-the-badge&logo=xampp&logoColor=white&color=fb7923)
 
 ## development tool skills
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![APIFox](https://img.shields.io/badge/APIFox-%230769AD.svg?style=for-the-badge&logo=apifox&logoColor=white&color=fe3a6b)
+![Postman](https://img.shields.io/badge/Postman-%230769AD.svg?style=for-the-badge&logo=Postman&logoColor=white&color=ff6c37)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-%230769AD.svg?style=for-the-badge&logo=composer&logoColor=white&color=6b4229)
-![Postman](https://img.shields.io/badge/Postman-%230769AD.svg?style=for-the-badge&logo=Postman&logoColor=white&color=ff6c37)
-![APIFox](https://img.shields.io/badge/APIFox-%230769AD.svg?style=for-the-badge&logo=apifox&logoColor=white&color=fe3a6b)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## OS skills
