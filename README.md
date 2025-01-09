@@ -3,37 +3,37 @@
 目前資歷2.5年，正在往後端的領域深入😎
 
 ## main skills
-![MainSkill](https://skillicons.dev/icons?i=git,github,vue,nuxt,laravel,redis,mysql,docker)
+![MainSkill](https://skillicons.dev/icons?i=git,github,vue,nuxt,typescript,nest,laravel,redis,mongodb,mysql,docker)
 ## languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=3c75a5)
 ![C#](https://img.shields.io/badge/C%23-%230769AD.svg?style=for-the-badge&logo=CSharp&logoColor=white&color=a27add)
 
 ## frontend skills
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=2fb982)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=white&color=40b883)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&color=6a0fec)
 
 ## backend skills
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express-%23FF2D20.svg?style=for-the-badge&logo=express&logoColor=white&color=092e20)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23FF2D20.svg?style=for-the-badge&logo=django&logoColor=white&color=092e20)
+![NestJS](https://img.shields.io/badge/nest-%23FF2D20.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=d42029)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=d42029)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth](https://img.shields.io/badge/oauth-%23FF2D20.svg?style=for-the-badge&logo=oauth&logoColor=red&color=black)
 
 ## databases skills
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongoDB-4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=178932)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23FF2D20.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=2f6792)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-%230769AD.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=cf2a26)
 ![SQLite](https://img.shields.io/badge/sqlite-%23FF2D20.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=0681cd)
 
 ## operation skills
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Windows IIS](https://img.shields.io/badge/Windows%20IIS-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white&color=04acef)
