@@ -1,6 +1,7 @@
 ### Welcome🎉
-哈囉，我是Kip，一個靠自學艱難摸爬滾打的網頁全端工程師<br>
-目前資歷2.5年，正在往後端的領域深入😎
+哈囉，我是Kip，一個靠自學艱難摸爬滾打的網頁全端工程師，正在往後端的領域深入😎
+
+<img src="https://img.shields.io/endpoint?url=https://reallife-kip.com/api/joined-at-counter&style=for-the-badge&logo=htmx&label=%E9%96%8B%E7%99%BC%E8%B3%87%E6%AD%B7" style="height: 35px"/>
 
 ## main skills
 ![MainSkill](https://skillicons.dev/icons?i=git,github,vue,nuxt,typescript,nest,laravel,redis,mongodb,mysql,docker)
