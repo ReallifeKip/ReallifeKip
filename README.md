@@ -3,9 +3,7 @@
 
 <img src="https://img.shields.io/endpoint?url=https://reallife-kip.com/api/joined-at-counter&style=for-the-badge&logo=htmx&label=%E9%96%8B%E7%99%BC%E8%B3%87%E6%AD%B7" style="height: 35px"/>
 
-<img src="https://leetcode-badge-sage.vercel.app/badge/Kip?theme=neutral"/>
-
-![Total](https://github-readme-stats.vercel.app/api?username=reallifekip&show_icons=true&theme=radical)
+<img src="https://leetcode-badge-sage.vercel.app/badge/ReallifeKip?theme=neutral"/>
 
 ## main skills
 ![MainSkill](https://skillicons.dev/icons?i=git,github,vue,nuxt,typescript,nest,laravel,redis,mongodb,mysql,docker)
