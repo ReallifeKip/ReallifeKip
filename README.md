@@ -67,5 +67,5 @@ It reflects how I think about DDD in practice, data correctness, and making ille
 </p>
 
 <p align="center">
-  <a href="mailto:bill402099@gmail.com">Email</a> ・ <a href="www.linkedin.com/in/reallifekip">LinkedIn</a>
+  <a href="mailto:bill402099@gmail.com">Email</a> ・ <a href="https://www.linkedin.com/in/reallifekip">LinkedIn</a>
 </p>
