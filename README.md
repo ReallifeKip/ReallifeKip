@@ -1,71 +1,71 @@
-### Welcome🎉
-哈囉，我是Kip，一個靠自學艱難摸爬滾打的網頁全端工程師，正在往後端的領域深入😎
+# Hey, I'm Kip 👋
 
-<img src="https://img.shields.io/endpoint?url=https://reallife-kip.com/api/joined-at-counter&style=for-the-badge&logo=htmx&label=%E9%96%8B%E7%99%BC%E8%B3%87%E6%AD%B7" style="height: 35px"/>
+Backend engineer focused on architecture decisions, type safety, and immutable domain modeling.
 
-<img src="https://leetcode-badge-sage.vercel.app/badge/ReallifeKip?theme=neutral"/>
+專注於架構決策、型別安全與不可變領域建模的後端工程師。
 
-## main skills
-![MainSkill](https://skillicons.dev/icons?i=git,github,vue,nuxt,typescript,nest,laravel,redis,mongodb,mysql,docker)
-## languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=3c75a5)
-![C#](https://img.shields.io/badge/C%23-%230769AD.svg?style=for-the-badge&logo=CSharp&logoColor=white&color=a27add)
+<img src="https://img.shields.io/endpoint?url=https://reallife-kip.com/api/joined-at-counter&style=flat-square&logo=htmx&label=Dev%20Experience"/>
 
-## frontend skills
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=2fb982)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=white&color=40b883)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&color=6a0fec)
+Currently a Senior Programmer Analyst at [Systex](https://systex.com) in Taiwan, working on AWS architecture and internal tooling.
 
-## backend skills
-![NestJS](https://img.shields.io/badge/nest-%23FF2D20.svg?style=for-the-badge&logo=nestjs&logoColor=white&color=d42029)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=d42029)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth](https://img.shields.io/badge/oauth-%23FF2D20.svg?style=for-the-badge&logo=oauth&logoColor=red&color=black)
+目前任職於精誠資訊，擔任高級程式分析師，主要負責 AWS 架構規劃與內部工具開發。
 
-## databases skills
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongoDB-4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=178932)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23FF2D20.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=2f6792)
-![SQLite](https://img.shields.io/badge/sqlite-%23FF2D20.svg?style=for-the-badge&logo=sqlite&logoColor=white&color=0681cd)
+---
 
-## operation skills
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Windows IIS](https://img.shields.io/badge/Windows%20IIS-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white&color=04acef)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Xampp](https://img.shields.io/badge/xampp-%230769AD.svg?style=for-the-badge&logo=xampp&logoColor=white&color=fb7923)
+## 🔧 ImmutableBase
 
-## development tool skills
-![APIFox](https://img.shields.io/badge/APIFox-%230769AD.svg?style=for-the-badge&logo=apifox&logoColor=white&color=fe3a6b)
-![Postman](https://img.shields.io/badge/Postman-%230769AD.svg?style=for-the-badge&logo=Postman&logoColor=white&color=ff6c37)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-%230769AD.svg?style=for-the-badge&logo=composer&logoColor=white&color=6b4229)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+我獨立開發與維護的 PHP 開源套件，用繼承式設計實作不可變的 DTO / Value Object / Sealed Value Object。  
+這個專案體現的是我對 DDD 實踐、資料正確性、以及「非法狀態不應存在」的堅持。
 
+An open-source PHP library I built and maintain — inheritance-based immutable DTOs, VOs, and SVOs for PHP 8.4+.  
+It reflects how I think about DDD in practice, data correctness, and making illegal states unrepresentable.
 
-## OS skills
-![Linux](https://img.shields.io/badge/Linux-%230769AD.svg?style=for-the-badge&logo=linux&logoColor=black&color=white)
-![Windows](https://img.shields.io/badge/Windows-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white&color=0074cd)
+[![Packagist](https://img.shields.io/packagist/v/reallifekip/immutable-base?style=flat-square)](https://packagist.org/packages/reallifekip/immutable-base)
+[![GitHub](https://img.shields.io/github/stars/ReallifeKip/ImmutableBase?style=flat-square)](https://github.com/ReallifeKip/ImmutableBase)
 
+→ [**Repository**](https://github.com/ReallifeKip/ImmutableBase) ・ [**Packagist**](https://packagist.org/packages/reallifekip/immutable-base) ・ [**r/php discussion**](https://www.reddit.com/r/PHP/comments/1rth368/whats_your_take_on_using_inheritance_for)
 
-## editors
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+---
 
-## design tool skills
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Stack / 技術棧
 
-## educations
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+**Day-to-day:** PHP · Laravel · TypeScript · Vue/Nuxt · MySQL · Redis · Docker
+
+**Infrastructure:** AWS · Nginx · Linux
+
+**Practices:** DDD · SOLID · Design Patterns
+
+---
+
+## What I value / 我重視的事
+
+- **Trade-off reasoning over best practices** — every design decision has a cost; I'd rather know the cost than follow a rule.  
+  每個設計決策都有代價，我寧可清楚知道代價，也不要盲從最佳實踐。
+
+- **Immutability as architecture** — not just `readonly`, but designing systems where illegal states are unrepresentable.  
+  不只是 `readonly`，而是在架構層面讓非法狀態無法被表達。
+
+- **IDE-friendly design** — if your IDE can't autocomplete it, the design made a compromise.  
+  如果你的 IDE 補不出來，那這個設計就做了妥協。
+
+---
+
+## Currently exploring / 目前在探索的
+
+- **Rust** — building my mental model of ownership and zero-cost abstractions  
+  正在建立對 ownership 和 zero-cost abstractions 的心智模型。
+- **Architecture** — moving beyond tactical patterns into bounded context design and architectural boundaries  
+  從戰術模式往戰略層深入，探索 bounded context 設計與架構邊界的劃分。
+- **Design Patterns** — expanding beyond the patterns I use daily into broader structural and behavioral patterns  
+  從日常使用的模式往外拓展，探索更多結構型與行為型模式。
+
+---
+
+<p align="center">
+  <i>Technology serves the business. Nothing is a silver bullet — not even the things I build.</i><br/>
+  <i>技術服務於業務，沒有銀彈——包括我自己做的東西。</i>
+</p>
+
+<p align="center">
+  <a href="mailto:bill402099@gmail.com">Email</a> ・ <a href="https://www.linkedin.com/in/%E8%B1%90%E9%BA%92-%E6%A5%8A-9a0483346/">LinkedIn</a>
+</p>
