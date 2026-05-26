@@ -33,7 +33,7 @@ It reflects how I think about DDD in practice, data correctness, and making ille
 
 **Infrastructure:** AWS · Nginx · Linux
 
-**Practices:** DDD · SOLID · Design Patterns
+**Practices:** DDD · Clean Architecture · SOLID · Design Patterns
 
 ---
 
