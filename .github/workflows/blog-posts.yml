@@ -1,0 +1,33 @@
+name: Update blog posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Update README
+        run: node .github/scripts/update-blog-posts.mjs
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "README 沒有變化,略過 commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update latest blog posts"
+          git push
