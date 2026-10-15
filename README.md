@@ -70,7 +70,7 @@ It reflects how I think about DDD in practice, data correctness, and making ille
   <a href="mailto:bill402099@gmail.com">Email</a> ・ <a href="https://www.linkedin.com/in/reallifekip">LinkedIn</a> ・ <a href="https://reallife-kip.com">My Blog</a>
 </p>
 
-### 最新文章
+### 我的部落格最新文章
 
 <!-- BLOG-POSTS:START -->
 <table>
